@@ -1,0 +1,1218 @@
+
+.wpbs-main-wrapper .wpbs-form-container {
+    padding: 30px 0 20px 0!important;
+    max-width: 450px!important;
+    margin: 0!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field {
+    padding-bottom: 20px!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field label {
+    display: block!important;
+    padding: 0 0 5px 0!important;
+    margin: 0!important;
+    font-size: 16px!important;
+    line-height: 22px!important;
+    font-weight: 700!important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: left!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-field-required-asterisk {
+    color: #ff2300!important;
+    position: relative;
+    top: auto!important;
+    bottom: auto!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=email],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=number],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=text] {
+    width: 100%!important;
+    padding: 0 0 0 14px!important;
+    margin: 0!important;
+    font-size: 16px!important;
+    height: 38px!important;
+    line-height: 38px!important;
+    font-family: inherit!important;
+    background-color: #fff!important;
+    border: 1px solid #ccc!important;
+    box-shadow: none!important;
+    border-radius: 2px!important;
+    outline: 0!important;
+    -webkit-appearance: none!important;
+    appearance: none!important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: border-color .2s ease;
+    -webkit-transition: border-color .2s ease;
+    -o-transition: border-color .2s ease;
+    transition: border-color .2s ease
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field select {
+    width: 100%!important;
+    padding: 0 0 0 14px!important;
+    margin: 0!important;
+    font-size: 16px!important;
+    height: 39px!important;
+    line-height: 39px!important;
+    font-family: inherit!important;
+    background-color: #fff!important;
+    background-image: none!important;
+    border: 1px solid #ccc!important;
+    box-shadow: none!important;
+    border-radius: 2px!important;
+    outline: 0!important;
+    -webkit-appearance: none!important;
+    appearance: none!important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: border-color .2s ease;
+    -webkit-transition: border-color .2s ease;
+    -o-transition: border-color .2s ease;
+    transition: border-color .2s ease
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input {
+    position: relative!important;
+    line-height: 30px!important;
+    text-align: left!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-dropdown .wpbs-form-field-input:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_dropdown .wpbs-form-field-input:after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    border: solid #7f7f7f;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px!important;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg)
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-dropdown select::-ms-expand,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_dropdown select::-ms-expand {
+    display: none!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-description {
+    font-size: 14px!important;
+    line-height: 20px!important;
+    padding-top: 5px!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-description small {
+    font-size: 14px!important;
+    line-height: 20px!important;
+    padding: 0!important;
+    margin: 0!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-error {
+    font-size: 14px!important;
+    line-height: 20px!important;
+    padding-top: 5px!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-error small {
+    font-size: 14px!important;
+    line-height: 20px!important;
+    padding: 0!important;
+    margin: 0!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field textarea {
+    width: 100%!important;
+    padding: 6px 0 0 14px!important;
+    margin: 0!important;
+    font-size: 16px!important;
+    height: 120px!important;
+    line-height: 24px!important;
+    font-family: inherit!important;
+    background-color: #fff!important;
+    border: 1px solid #ccc!important;
+    box-shadow: none!important;
+    border-radius: 2px!important;
+    outline: 0!important;
+    -webkit-appearance: none!important;
+    appearance: none!important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: border-color .2s ease;
+    -webkit-transition: border-color .2s ease;
+    -o-transition: border-color .2s ease;
+    transition: border-color .2s ease
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label {
+    font-size: 16px!important;
+    font-weight: 400!important;
+    width: auto!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label {
+    display: inline-block!important;
+    margin: 0 25px 5px 0!important;
+    padding: 0!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input label input[type=checkbox],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input label input[type=radio] {
+    padding: 0!important;
+    margin: 0!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label {
+    display: inline-block!important;
+    position: relative!important;
+    padding-left: 30px!important;
+    cursor: pointer!important;
+    -webkit-user-select: none!important;
+    -moz-user-select: none!important;
+    -ms-user-select: none!important;
+    user-select: none!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label input,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label input,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label input,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label input,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label input {
+    position: absolute!important;
+    opacity: 0!important;
+    cursor: pointer!important;
+    left: 5px!important;
+    top: 10px!important;
+    width: 1px!important;
+    height: 1px!important;
+    padding: 0!important;
+    margin: 0!important;
+    border: none!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label span {
+    position: absolute!important;
+    top: 2px!important;
+    left: 0!important;
+    height: 21px!important;
+    width: 21px!important;
+    background-color: #e2e2e2!important;
+    -moz-transition: background-color .2s ease;
+    -webkit-transition: background-color .2s ease;
+    -o-transition: background-color .2s ease;
+    transition: background-color .2s ease
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label span {
+    border-radius: 50%!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label:hover input~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label:hover input~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label:hover input~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label:hover input~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label:hover input~span {
+    background-color: #aaa!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label input:checked~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label input:checked~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label input:checked~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label input:checked~span,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label input:checked~span {
+    background-color: #7f7f7f!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label span:after {
+    content: "";
+    position: absolute!important;
+    display: none!important;
+    -webkit-box-sizing: border-box!important;
+    -moz-box-sizing: border-box!important;
+    box-sizing: border-box!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label input:checked~span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label input:checked~span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label input:checked~span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label input:checked~span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label input:checked~span:after {
+    display: block!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_radio .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-radio .wpbs-form-field-input label span:after {
+    top: 6px!important;
+    left: 6px!important;
+    width: 9px!important;
+    height: 9px!important;
+    border-radius: 50%!important;
+    background: #fff!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-checkbox .wpbs-form-field-input label span:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_checkbox .wpbs-form-field-input label span:after {
+    left: 7px!important;
+    top: 3px!important;
+    width: 7px!important;
+    height: 12px!important;
+    border: solid #fff!important;
+    border-width: 0 3px 3px 0!important;
+    -webkit-transform: rotate(45deg)!important;
+    -ms-transform: rotate(45deg)!important;
+    transform: rotate(45deg)!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=email]:focus,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=number]:focus,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=text]:focus,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field select:focus {
+    border-color: #7f7f7f!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-dropdown .wpbs-form-field-input:focus-within:after,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-product_dropdown .wpbs-form-field-input:focus-within:after {
+    border-color: #7f7f7f!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-payment-method-description {
+    display: none;
+    margin: 10px 0!important;
+    padding: 7px 10px!important;
+    background: #f7f7f7!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-payment-method-description-open {
+    display: block
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field.wpbs-form-field-payment_method .wpbs-form-field-input label {
+    display: block!important
+}
+
+.wpbs-main-wrapper table.wpbs-pricing-table {
+    border: none!important;
+    border-spacing: 1px!important;
+    margin: 0!important;
+    width: 100%!important;
+    border-radius: 2px!important;
+    overflow: hidden!important;
+    text-align: left!important
+}
+
+.wpbs-main-wrapper table.wpbs-pricing-table tfoot th,.wpbs-main-wrapper table.wpbs-pricing-table thead th {
+    font-weight: 700!important;
+    background: #f7f7f7!important
+}
+
+.wpbs-main-wrapper table.wpbs-pricing-table td,.wpbs-main-wrapper table.wpbs-pricing-table th {
+    border: none!important;
+    border-bottom: 1px solid #f7f7f7!important;
+    background: 0 0!important;
+    margin: 1px;
+    padding: 6px 10px
+}
+
+.wpbs-main-wrapper table.wpbs-pricing-table td:first-child,.wpbs-main-wrapper table.wpbs-pricing-table th:first-child {
+    border-right: 1px solid #fff!important
+}
+
+.wpbs-main-wrapper table.wpbs-pricing-table tr:last-child td {
+    border-bottom: none!important
+}
+
+.wpbs-main-wrapper .wpbs-payment-confirmation {
+    max-width: 450px!important
+}
+
+.wpbs-main-wrapper .wpbs-payment-confirmation table.wpbs-pricing-table {
+    margin-bottom: 20px!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field button[type=submit],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=submit] {
+    width: auto!important;
+    padding: 10px 15px 10px 15px!important;
+    margin: 0!important;
+    font-size: 18px!important;
+    height: auto!important;
+    line-height: 24px!important;
+    font-family: inherit!important;
+    font-weight: 700!important;
+    color: #fff!important;
+    background-color: #aaa!important;
+    border: none!important;
+    box-shadow: none!important;
+    border-radius: 2px!important;
+    outline: 0!important;
+    -webkit-appearance: none!important;
+    appearance: none!important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-transition: all .2s ease;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field button[type=submit]:hover,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=submit]:hover {
+    background-color: #7f7f7f!important;
+    color: #fff!important;
+    cursor: pointer!important
+}
+
+.wpbs-main-wrapper .wpbs-form-general-error {
+    padding: 0 0 15px 0!important;
+    font-size: 16px!important;
+    line-height: 26px!important;
+    color: #ff2300!important;
+    font-weight: 700!important
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-error {
+    padding: 4px 0 0 0!important;
+    font-size: 14px!important;
+    line-height: 14px!important;
+    color: #ff2300!important
+}
+
+.wpbs-main-wrapper .wpbs-payment-test-mode-enabled {
+    padding: 10px 20px!important;
+    border-left: 5px solid #ff2300;
+    margin: 10px 0!important;
+    font-size: 16px!important;
+    line-height: 26px!important;
+    font-weight: 700!important;
+    background: #f7f7f7!important
+}
+
+.edit-site-block-editor__block-list .wpbs-main-wrapper {
+    pointer-events: none
+}
+
+.wpbs-container {
+    position: relative;
+    visibility: hidden
+}
+
+.wpbs-container .wpbs-calendars-wrapper {
+    position: relative
+}
+
+.wpbs-container .wpbs-calendars:after {
+    content: '';
+    display: block;
+    clear: both
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table {
+    table-layout: fixed;
+    width: 100%;
+    min-width: auto;
+    border-collapse: collapse;
+    margin: 0!important;
+    padding: 0!important;
+    border: 0!important
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tbody,.wpbs-container .wpbs-calendars .wpbs-calendar table thead,.wpbs-container .wpbs-calendars .wpbs-calendar table tr {
+    border: 0!important;
+    padding: 0!important;
+    margin: 0!important;
+    background: 0 0
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td,.wpbs-container .wpbs-calendars .wpbs-calendar table tr th {
+    position: relative;
+    border: 0!important;
+    padding: 0!important;
+    margin: 0!important;
+    vertical-align: middle;
+    background: 0 0;
+    text-shadow: none;
+    box-shadow: none;
+    box-sizing: border-box
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar {
+    position: relative;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    margin-bottom: 1em
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table thead tr th {
+    padding-bottom: 8px!important;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar-wrapper {
+    padding: 8px 7px 7px 7px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box
+}
+
+.wpbs-container .wpbs-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,.6)
+}
+
+.wpbs-overlay-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -6px;
+    margin-left: -35px;
+    width: 70px;
+    text-align: center
+}
+
+.wpbs-overlay-spinner>div {
+    width: 12px;
+    height: 12px;
+    background-color: #333;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    animation: sk-bouncedelay 1.4s infinite ease-in-out both
+}
+
+.wpbs-overlay-spinner .wpbs-overlay-bounce1 {
+    -webkit-animation-delay: -.32s;
+    animation-delay: -.32s
+}
+
+.wpbs-overlay-spinner .wpbs-overlay-bounce2 {
+    -webkit-animation-delay: -.16s;
+    animation-delay: -.16s
+}
+
+@-webkit-keyframes sk-bouncedelay {
+    0%,100%,80% {
+        -webkit-transform: scale(0)
+    }
+
+    40% {
+        -webkit-transform: scale(1)
+    }
+}
+
+@keyframes sk-bouncedelay {
+    0%,100%,80% {
+        -webkit-transform: scale(0);
+        transform: scale(0)
+    }
+
+    40% {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header {
+    text-align: center;
+    padding: 8px;
+    background: #f5f5f5
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation {
+    position: relative;
+    padding: 0 30px;
+    min-height: 26px;
+    font-size: 13px;
+    line-height: 26px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-next,.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-prev {
+    position: absolute;
+    display: block;
+    top: 50%;
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+    margin-top: -13px;
+    vertical-align: middle;
+    text-decoration: none;
+    border: 0;
+    box-shadow: none;
+    color: #fff;
+    background: #bdc3c7;
+    border-radius: 2px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-prev {
+    left: 0
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-next {
+    right: 0
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-next .wpbs-arrow,.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-prev .wpbs-arrow {
+    position: absolute;
+    top: 50%;
+    margin-top: -5px;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-next .wpbs-arrow {
+    right: 50%;
+    margin-right: -5px;
+    border-width: 5px 0 5px 8.7px;
+    border-color: transparent transparent transparent #fff
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-calendar-header-navigation .wpbs-prev .wpbs-arrow {
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px 8.7px 5px 0;
+    border-color: transparent #fff transparent transparent
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar .wpbs-calendar-header .wpbs-select-container select {
+    width: 100%;
+    height: 26px;
+    border: 1px solid #bdc3c7;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 10px;
+    vertical-align: top;
+    font-size: 13px;
+    box-sizing: border-box!important
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table td .wpbs-week-number {
+    background: #e8e8e8;
+    height: 32px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td,.wpbs-container .wpbs-calendars .wpbs-calendar table tr th {
+    text-align: center;
+    padding: 1px!important;
+    font-size: 13px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table th {
+    font-weight: 700;
+    color: inherit
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td .wpbs-date {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td .wpbs-date-inner {
+    position: relative;
+    width: 100%;
+    height: 32px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td .wpbs-date-inner .wpbs-date-number {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 13px
+}
+
+.wpbs-container .wpbs-calendars .wpbs-calendar table tr td .wpbs-date.wpbs-gap {
+    background: #f7f7f7
+}
+
+.wpbs-legend {
+    text-align: left;
+    margin: 1em 0;
+    padding: 8px 8px 0;
+    border: 1px solid #f1f1f1;
+    line-height: 0;
+    background: #fff;
+    box-sizing: border-box!important
+}
+
+.wpbs-legend .wpbs-legend-item {
+    display: inline-block;
+    margin-bottom: 8px;
+    margin-right: 8px
+}
+
+.wpbs-legend .wpbs-legend-item-icon {
+    position: relative;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+    box-sizing: border-box;
+    overflow: hidden
+}
+
+.wpbs-legend .wpbs-legend-item-name {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 13px
+}
+
+.wpbs-calendars-wrapper.wpbs-legend-position-side {
+    padding-right: 165px;
+    box-sizing: content-box!important
+}
+
+.wpbs-calendars-wrapper.wpbs-legend-position-side .wpbs-legend {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 155px;
+    margin-top: 0
+}
+
+.wpbs-calendars-wrapper.wpbs-legend-position-side .wpbs-legend .wpbs-legend-item {
+    display: block;
+    margin-right: 0;
+    line-height: 0
+}
+
+.wpbs-calendars .wpbs-legend-item-icon {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    overflow: hidden
+}
+
+.wpbs-legend-item-icon[data-type=single] div {
+    display: none
+}
+
+.wpbs-legend-item-icon[data-type=single] div:first-of-type {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.wpbs-legend-item-icon[data-type=split] div svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0
+}
+
+.wpbs-legend-item-icon[data-type=blank] {
+    background-color: #f3f3f3;
+    height: 100%
+}
+
+.wpbs-container .wpbs-tooltip {
+    display: none;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    font-size: 12px;
+    background: #fff;
+    text-align: left;
+    padding: 10px;
+    box-shadow: 0 0 5px 1px rgba(0,0,0,.1);
+    box-sizing: border-box;
+    width: 180px;
+    margin-left: 2px
+}
+
+.wpbs-container .wpbs-date:hover .wpbs-tooltip {
+    display: block
+}
+
+.wpbs-container .wpbs-tooltip strong {
+    display: block;
+    margin-bottom: 5px
+}
+
+.wpbs-container .wpbs-tooltip-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 6px 6px 0;
+    border-color: transparent red transparent transparent;
+    z-index: 1
+}
+
+.wpbs-container[data-columns] .wpbs-calendars .wpbs-calendar {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-sizing: border-box!important
+}
+
+.wpbs-container[data-columns] .wpbs-calendars {
+    margin-left: -5px;
+    margin-right: -5px
+}
+
+.wpbs-container[data-columns="6"] .wpbs-calendars .wpbs-calendar {
+    width: calc(16.6666% - 10px)
+}
+
+.wpbs-container[data-columns="4"] .wpbs-calendars .wpbs-calendar {
+    width: calc(25% - 10px)
+}
+
+.wpbs-container[data-columns="3"] .wpbs-calendars .wpbs-calendar {
+    width: calc(33.3333% - 10px)
+}
+
+.wpbs-container[data-columns="2"] .wpbs-calendars .wpbs-calendar {
+    width: calc(50% - 10px)
+}
+
+@media screen and (max-width: 420px) {
+    .wpbs-calendars-wrapper.wpbs-legend-position-side {
+        padding-right:0
+    }
+
+    .wpbs-calendars-wrapper.wpbs-legend-position-side .wpbs-legend {
+        position: relative;
+        top: auto;
+        right: auto;
+        width: auto
+    }
+
+    .wpbs-calendars-wrapper.wpbs-legend-position-side .wpbs-legend .wpbs-legend-item {
+        display: inline-block;
+        margin-right: 8px
+    }
+}
+
+.wpbs-main-wrapper .wpbs-container.wpbs-disable-selection {
+    pointer-events: none
+}
+
+.wpbs-main-wrapper:not(.wpbs-main-wrapper-form-0) .wpbs-container .wpbs-calendars .wpbs-calendar table tr td .wpbs-is-bookable {
+    cursor: pointer
+}
+
+.wpbs-main-wrapper:not(.wpbs-main-wrapper-form-0) .wpbs-container.wpbs-enable-hover .wpbs-date.wpbs-is-bookable:hover {
+    cursor: pointer
+}
+
+.wpbs-container .wpbs-date.wpbs-date-hover:hover {
+    cursor: pointer
+}
+
+.wpbs-container.wpbs-enable-hover .wpbs-date.wpbs-gap.wpbs-is-bookable:hover {
+    cursor: default
+}
+
+.wpbs-container .wpbs-legend-item-icon .wpbs-legend-icon-select {
+    display: block
+}
+
+.wpbs-container .wpbs-legend-item-icon .wpbs-legend-icon-select svg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2
+}
+
+.wpbs-container .wpbs-date.wpbs-date-hover.wpbs-selected-first.wpbs-selected-last .wpbs-legend-item-icon svg {
+    display: block
+}
+
+.wpbs-main-wrapper .wpbs-payment-confirmation .wpbs-overlay-spinner {
+    position: static;
+    margin: 0;
+    width: 36px
+}
+
+.wpbs-main-wrapper .wpbs-form-container {
+    padding: 30px 0 20px 0;
+    max-width: 450px
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field {
+    padding-bottom: 20px
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input label {
+    margin-right: 25px;
+    display: inline-block;
+    font-weight: inherit
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input label input[type=radio] {
+    position: relative;
+    top: 1px
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field .wpbs-form-field-input label input[type=checkbox] {
+    position: relative;
+    top: 1px
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=email],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=number],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field input[type=text],.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field select,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field textarea {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-field-error,.wpbs-main-wrapper .wpbs-form-container .wpbs-form-general-error {
+    color: #f00f00
+}
+
+.wpbs-main-wrapper .wpbs-form-container .wpbs-form-general-error {
+    padding-bottom: 15px
+}
+
+.wpbs-main-wrapper .wpbs-payment-confirmation form {
+    display: none
+}
+
+.elementor-editor-active .wpbs-container {
+    visibility: visible!important
+}
+
+$ = jQuery.noConflict(),
+$(document).ready((function($) {
+    function resize_calendar($calendars_wrapper) {
+        var $months_wrapper = $calendars_wrapper.find(".wpbs-calendars-wrapper")
+          , $months_wrapper_width = $calendars_wrapper.find(".wpbs-calendars")
+          , calendar_min_width = $calendars_wrapper.data("min_width")
+          , calendar_max_width = $calendars_wrapper.data("max_width")
+          , $month_inner = $calendars_wrapper.find(".wpbs-calendar-wrapper");
+        $calendars_wrapper.data("min_width") > 0 && $calendars_wrapper.find(".wpbs-calendar").css("min-width", calendar_min_width),
+        $calendars_wrapper.data("max_width") > 0 && $calendars_wrapper.find(".wpbs-calendar").css("max-width", calendar_max_width);
+        var column_count = 0;
+        column_count = $months_wrapper_width.width() < 2 * calendar_min_width ? 1 : $months_wrapper_width.width() < 3 * calendar_min_width ? 2 : $months_wrapper_width.width() < 4 * calendar_min_width ? 3 : $months_wrapper_width.width() < 6 * calendar_min_width ? 4 : 6,
+        $calendars_wrapper.find(".wpbs-calendar").length <= column_count && (column_count = $calendars_wrapper.find(".wpbs-calendar").length),
+        $calendars_wrapper.attr("data-columns", column_count),
+        $months_wrapper.hasClass("wpbs-legend-position-side") && ($months_wrapper.css("max-width", "none"),
+        $months_wrapper.css("max-width", $calendars_wrapper.find(".wpbs-calendar").first().outerWidth(!0) * column_count));
+        var td_width = $calendars_wrapper.find("td").first().width();
+        $calendars_wrapper.find("td .wpbs-date-inner, td .wpbs-week-number").css("height", Math.ceil(td_width) + 1 + "px"),
+        $calendars_wrapper.find("td .wpbs-date-inner, td .wpbs-week-number").css("line-height", Math.ceil(td_width) + 1 + "px");
+        var th_height = $calendars_wrapper.find("th").css("height", "auto").first().height();
+        $calendars_wrapper.find("th").css("height", Math.ceil(th_height) + 1 + "px");
+        var calendar_month_height = 0;
+        $month_inner.css("min-height", "1px"),
+        $month_inner.each((function() {
+            $(this).height() >= calendar_month_height && (calendar_month_height = $(this).height())
+        }
+        )),
+        $month_inner.css("min-height", Math.ceil(calendar_month_height) + "px"),
+        $calendars_wrapper.css("visibility", "visible")
+    }
+    function refresh_calendar($calendar_container, current_year, current_month) {
+        var $calendar_container;
+        if (($calendar_container = $calendar_container).hasClass("wpbs-is-loading"))
+            return !1;
+        var data = $calendar_container.data();
+        data.action = "wpbs_refresh_calendar",
+        data.current_year = current_year,
+        data.current_month = current_month,
+        $calendar_container.find(".wpbs-calendar").append('<div class="wpbs-overlay"><div class="wpbs-overlay-spinner"><div class="wpbs-overlay-bounce1"></div><div class="wpbs-overlay-bounce2"></div><div class="wpbs-overlay-bounce3"></div></div></div>'),
+        $calendar_container.addClass("wpbs-is-loading"),
+        $calendar_container.find("select").attr("disabled", !0),
+        "undefined" != typeof wpbs_ajaxurl && (ajaxurl = wpbs_ajaxurl),
+        $.post(ajaxurl, data, (function(response) {
+            $calendar_container.replaceWith(response),
+            $(".wpbs-container").each((function() {
+                resize_calendar($(this)),
+                wpbs_mark_selected_dates($(this).parents(".wpbs-main-wrapper")),
+                wpbs_set_off_screen_date_limits($(this).parents(".wpbs-main-wrapper")),
+                $(this).siblings("form").length || $(this).removeClass("wpbs-enable-hover")
+            }
+            ))
+        }
+        ))
+    }
+    function wpbs_render_recaptcha() {
+        $(".wpbs-google-recaptcha").length && $(".wpbs-google-recaptcha").each((function() {
+            if ($recaptcha = $(this),
+            $recaptcha.find("iframe").length)
+                return !0;
+            grecaptcha.render($recaptcha.attr("id"), {
+                sitekey: $recaptcha.data("sitekey")
+            })
+        }
+        ))
+    }
+    function wpbs_set_selection_start_date(date, $calendar_instance) {
+        $calendar_instance.find(".wpbs-container").data("start_date", date.getTime())
+    }
+    function wpbs_set_selection_end_date(date, $calendar_instance) {
+        start_date = wpbs_get_selection_start_date($calendar_instance),
+        start_date.getTime() > date ? (wpbs_set_selection_start_date(date, $calendar_instance),
+        start_date.setUTCDate(start_date.getUTCDate()),
+        $calendar_instance.find(".wpbs-container").data("end_date", start_date.getTime())) : $calendar_instance.find(".wpbs-container").data("end_date", date.getTime())
+    }
+    function wpbs_get_selection_start_date($calendar_instance) {
+        return void 0 !== $calendar_instance.find(".wpbs-container").data("start_date") && "" != $calendar_instance.find(".wpbs-container").data("start_date") && (date = new Date($calendar_instance.find(".wpbs-container").data("start_date")),
+        date)
+    }
+    function wpbs_get_selection_end_date($calendar_instance) {
+        return void 0 !== $calendar_instance.find(".wpbs-container").data("end_date") && "" != $calendar_instance.find(".wpbs-container").data("end_date") && (date = new Date($calendar_instance.find(".wpbs-container").data("end_date")),
+        date)
+    }
+    function wpbs_remove_selection_dates($calendar_instance) {
+        $calendar_instance.find(".wpbs-container").data("start_date", !1),
+        $calendar_instance.find(".wpbs-container").data("end_date", !1),
+        $calendar_instance.find(".wpbs-container .wpbs-date").removeClass("wpbs-date-selected"),
+        $calendar_instance.find(".wpbs-container .wpbs-date").removeClass("wpbs-date-hover"),
+        $calendar_instance.find(".wpbs-container .wpbs-date").removeClass("wpbs-selected-first").removeClass("wpbs-selected-last"),
+        $calendar_instance.find(".wpbs-container .wpbs-date .wpbs-legend-icon-select").remove(),
+        $calendar_instance.data("future_date_limit", "infinite"),
+        $calendar_instance.data("past_date_limit", "infinite")
+    }
+    function wpbs_mark_hover_selection(date, $calendar_instance) {
+        if ($el = $calendar_instance.find('.wpbs-container .wpbs-date[data-day="' + date.getUTCDate() + '"][data-month="' + (date.getUTCMonth() + 1) + '"][data-year="' + date.getUTCFullYear() + '"]'),
+        $el.length && !$el.hasClass("wpbs-is-bookable"))
+            return !1;
+        if (changeover_start = $calendar_instance.find(".wpbs-container").data("changeover_start"),
+        changeover_end = $calendar_instance.find(".wpbs-container").data("changeover_end"),
+        changeover_start && changeover_end) {
+            var hovered_dates = {};
+            if ($calendar_instance.find(".wpbs-date-hover").each((function() {
+                hovered_date_legend = "normal",
+                $(this).hasClass("wpbs-legend-item-" + changeover_start) && (hovered_date_legend = "start"),
+                $(this).hasClass("wpbs-legend-item-" + changeover_end) && (hovered_date_legend = "end"),
+                hovered_dates["" + $(this).data("year") + $(this).data("month") + $(this).data("day")] = hovered_date_legend
+            }
+            )),
+            hovered_date_legend = "normal",
+            $el.hasClass("wpbs-legend-item-" + changeover_start) && (hovered_date_legend = "start"),
+            $el.hasClass("wpbs-legend-item-" + changeover_end) && (hovered_date_legend = "end"),
+            hovered_dates["" + $el.data("year") + $el.data("month") + $el.data("day")] = hovered_date_legend,
+            start_date_found = !1,
+            exit_selection = !1,
+            $.each(hovered_dates, (function(date, hovered_date_legend) {
+                "start" == hovered_date_legend && (start_date_found = !0),
+                "end" != hovered_date_legend || !0 !== start_date_found || (exit_selection = !0)
+            }
+            )),
+            !0 === exit_selection)
+                return !1
+        }
+        return !("infinite" != $calendar_instance.data("past_date_limit") && date.getTime() < $calendar_instance.data("past_date_limit")) && (!("infinite" != $calendar_instance.data("future_date_limit") && date.getTime() > $calendar_instance.data("future_date_limit")) && ($el.addClass("wpbs-date-hover"),
+        !0))
+    }
+    function wpbs_mark_selection(date, $calendar_instance) {
+        $el = $calendar_instance.find('.wpbs-container .wpbs-date[data-day="' + date.getUTCDate() + '"][data-month="' + (date.getUTCMonth() + 1) + '"][data-year="' + date.getUTCFullYear() + '"]'),
+        $el.addClass("wpbs-date-selected")
+    }
+    function wpbs_mark_selection_split_start(date, $calendar_instance) {
+        $el = $calendar_instance.find('.wpbs-container .wpbs-date[data-day="' + date.getUTCDate() + '"][data-month="' + (date.getUTCMonth() + 1) + '"][data-year="' + date.getUTCFullYear() + '"]'),
+        $el.addClass("wpbs-selected-first").find(".wpbs-legend-item-icon").append('<div class="wpbs-legend-icon-select"><svg height="100%" width="100%" viewBox="0 0 50 50" preserveAspectRatio="none"><polygon points="0,50 50,50 50,0" /></svg></div>')
+    }
+    function wpbs_mark_selection_split_end(date, $calendar_instance) {
+        $el = $calendar_instance.find('.wpbs-container .wpbs-date[data-day="' + date.getUTCDate() + '"][data-month="' + (date.getUTCMonth() + 1) + '"][data-year="' + date.getUTCFullYear() + '"]'),
+        $el.addClass("wpbs-selected-last").find(".wpbs-legend-item-icon").append('<div class="wpbs-legend-icon-select"><svg height="100%" width="100%" viewBox="0 0 50 50" preserveAspectRatio="none"><polygon points="0,0 0,50 50,0" /></svg></div>')
+    }
+    function wpbs_mark_selected_dates($calendar_instance) {
+        if (!1 !== wpbs_get_selection_start_date($calendar_instance) && !1 !== wpbs_get_selection_end_date($calendar_instance)) {
+            $calendar_instance.find(".wpbs-date").removeClass("wpbs-date-selected"),
+            $calendar_instance.find(".wpbs-date").removeClass("wpbs-date-hover");
+            for (var i = wpbs_get_selection_start_date($calendar_instance); i <= wpbs_get_selection_end_date($calendar_instance); i.setUTCDate(i.getUTCDate() + 1))
+                wpbs_mark_selection(i, $calendar_instance);
+            $(document).trigger("wpbs_dates_selected", [$calendar_instance])
+        }
+    }
+    function wpbs_set_off_screen_date_limits($calendar_instance) {
+        if (!1 === wpbs_get_selection_start_date($calendar_instance))
+            return !1;
+        if ("infinite" != $calendar_instance.data("future_date_limit") && "infinite" != $calendar_instance.data("past_date_limit"))
+            return !1;
+        var future_dates = []
+          , past_dates = []
+          , selected_date = wpbs_get_selection_start_date($calendar_instance).getTime();
+        $calendar_instance.find(".wpbs-date").not(".wpbs-is-bookable").not(".wpbs-gap").each((function() {
+            date = wpbs_get_element_date($(this)).getTime(),
+            date > selected_date ? future_dates.push(date) : past_dates.push(date)
+        }
+        )),
+        future_dates.length && "infinite" == $calendar_instance.data("future_date_limit") && (future_dates.sort(),
+        $calendar_instance.data("future_date_limit", future_dates[0])),
+        past_dates.length && "infinite" == $calendar_instance.data("past_date_limit") && (past_dates.sort().reverse(),
+        $calendar_instance.data("past_date_limit", past_dates[0]))
+    }
+    function wpbs_get_element_date($el) {
+        return date = new Date(Date.UTC($el.data("year"), $el.data("month") - 1, $el.data("day"), 0, 0, 0)),
+        date
+    }
+    function wpbs_is_touch_device() {
+        var prefixes = " -webkit- -moz- -o- -ms- ".split(" "), mq = function(query) {
+            return window.matchMedia(query).matches
+        }, query;
+        return !!("ontouchstart"in window || window.DocumentTouch && document instanceof DocumentTouch) || mq(["(", prefixes.join("touch-enabled),("), "heartz", ")"].join(""))
+    }
+    $(".wpbs-container").each((function() {
+        resize_calendar($(this))
+    }
+    )),
+    $(window).on("resize", (function() {
+        var iframe;
+        ($(".wpbs-container").each((function() {
+            resize_calendar($(this))
+        }
+        )),
+        $(".edit-site-visual-editor__editor-canvas").length) && $("iframe.edit-site-visual-editor__editor-canvas").contents().find(".wpbs-container").each((function() {
+            console.log("resizing iframe"),
+            resize_calendar($(this))
+        }
+        ))
+    }
+    )),
+    $(document).on("click", ".wpbs-container .wpbs-prev", (function(e) {
+        e.preventDefault();
+        for (var $container = $(this).closest(".wpbs-container"), current_month = $container.data("current_month"), current_year = $container.data("current_year"), navigate_count = 1, i = 1; i <= 1; i++)
+            (current_month -= 1) < 1 && (current_month = 12,
+            current_year -= 1);
+        refresh_calendar($container, current_year, current_month)
+    }
+    )),
+    $(document).on("click", ".wpbs-container .wpbs-next", (function(e) {
+        e.preventDefault();
+        for (var $container = $(this).closest(".wpbs-container"), current_month = $container.data("current_month"), current_year = $container.data("current_year"), navigate_count = 1, i = 1; i <= 1; i++)
+            (current_month += 1) > 12 && (current_month = 1,
+            current_year += 1);
+        refresh_calendar($container, current_year, current_month)
+    }
+    )),
+    $(document).on("change", ".wpbs-container .wpbs-select-container select", (function() {
+        var $container = $(this).closest(".wpbs-container"), date = new Date(1e3 * $(this).val()), year, month;
+        refresh_calendar($container, date.getFullYear(), date.getMonth() + 1)
+    }
+    )),
+    $(document).on("change", ".wpbs-form-field-payment_method input[type='radio']", (function() {
+        $(this).parents(".wpbs-form-field-payment_method").find("p.wpbs-payment-method-description-open").removeClass("wpbs-payment-method-description-open"),
+        $(this).parent().next("p").addClass("wpbs-payment-method-description-open")
+    }
+    )),
+    $(document).on("submit", ".wpbs-form-container", (function(e) {
+        e.preventDefault(),
+        $form = $(this);
+        var $calendar = $form.parents(".wpbs-main-wrapper").find(".wpbs-container");
+        "undefined" != typeof wpbs_ajaxurl && (ajaxurl = wpbs_ajaxurl);
+        var data = {
+            action: "wpbs_submit_form"
+        };
+        data.form = $form.data(),
+        data.calendar = $calendar.data(),
+        data.wpbs_token = wpbs_ajax.token,
+        data.form_data = $form.serialize(),
+        $.post(ajaxurl, data, (function(response) {
+            if (!1 === (response = JSON.parse(response)).success)
+                $form.replaceWith(response.html),
+                wpbs_render_recaptcha(),
+                $("html, body").stop().animate({
+                    scrollTop: $calendar.parents(".wpbs-main-wrapper").offset().top
+                });
+            else if (!0 === response.success)
+                if ("message" == response.confirmation_type) {
+                    $form.parents(".wpbs-payment-confirmation").length ? $form.parents(".wpbs-payment-confirmation").replaceWith('<div class="wpbs-form-confirmation-message"><p>' + response.confirmation_message + "</p></div>") : ($form.replaceWith('<div class="wpbs-form-confirmation-message"><p>' + response.confirmation_message + "</p></div>"),
+                    $("html, body").stop().animate({
+                        scrollTop: $calendar.parents(".wpbs-main-wrapper").offset().top
+                    })),
+                    $calendar_instance = $calendar.parents(".wpbs-main-wrapper"),
+                    wpbs_remove_selection_dates($calendar_instance),
+                    $calendar_instance.data("future_date_limit", "infinite"),
+                    $calendar_instance.data("past_date_limit", "infinite");
+                    var current_month = $calendar.data("current_month")
+                      , current_year = $calendar.data("current_year");
+                    refresh_calendar($calendar, current_year, current_month)
+                } else
+                    "redirect" == response.confirmation_type && (window.location.href = response.confirmation_redirect_url)
+        }
+        ))
+    }
+    )),
+    $(window).on("load", (function() {
+        wpbs_render_recaptcha()
+    }
+    )),
+    $(document).on("elementor/popup/show", () => {
+        $(window).trigger("resize")
+    }
+    ),
+    $(document).on("click", ".wpbs-container .wpbs-is-bookable", (function() {
+        if ($el = $(this),
+        $calendar_instance = $el.parents(".wpbs-main-wrapper"),
+        $el.hasClass("wpbs-gap"))
+            return !1;
+        if ($calendar_instance.hasClass("wpbs-main-wrapper-form-0"))
+            return !1;
+        if (!$calendar_instance.find(".wpbs-form-container").length)
+            return !1;
+        if (!1 === wpbs_get_selection_start_date($calendar_instance))
+            $calendar_instance.data("future_date_limit", "infinite"),
+            $calendar_instance.data("past_date_limit", "infinite"),
+            wpbs_set_selection_start_date(wpbs_get_element_date($el), $calendar_instance),
+            wpbs_set_off_screen_date_limits($calendar_instance),
+            wpbs_is_touch_device() || $el.trigger("mouseenter");
+        else if (!1 !== wpbs_get_selection_start_date($calendar_instance) && !1 === wpbs_get_selection_end_date($calendar_instance)) {
+            if (wpbs_is_touch_device() && $el.trigger("mouseenter"),
+            !$el.hasClass("wpbs-date-hover"))
+                return !1;
+            wpbs_set_selection_end_date(wpbs_get_element_date($el), $calendar_instance),
+            wpbs_mark_selected_dates($calendar_instance),
+            $calendar_instance.find(".wpbs-container").addClass("wpbs-enable-hover")
+        } else
+            !1 !== wpbs_get_selection_start_date($calendar_instance) && !1 !== wpbs_get_selection_end_date($calendar_instance) && (wpbs_remove_selection_dates($calendar_instance),
+            $calendar_instance.data("future_date_limit", "infinite"),
+            $calendar_instance.data("past_date_limit", "infinite"),
+            wpbs_set_selection_start_date(wpbs_get_element_date($el), $calendar_instance),
+            wpbs_set_off_screen_date_limits($calendar_instance),
+            wpbs_is_touch_device() || $el.trigger("mouseenter"))
+    }
+    )),
+    $(document).on("mouseenter", ".wpbs-container .wpbs-is-bookable", (function() {
+        if ($el = $(this),
+        $calendar_instance = $el.parents(".wpbs-main-wrapper"),
+        $calendar_instance.hasClass("wpbs-main-wrapper-form-0"))
+            return !1;
+        if (!1 === wpbs_get_selection_start_date($calendar_instance) || !1 !== wpbs_get_selection_end_date($calendar_instance))
+            return !1;
+        if ($calendar_instance.find(".wpbs-container").removeClass("wpbs-enable-hover"),
+        current_date = wpbs_get_element_date($el),
+        selection_start_date = wpbs_get_selection_start_date($calendar_instance),
+        $calendar_instance.find(".wpbs-container .wpbs-date").removeClass("wpbs-date-hover"),
+        current_date > selection_start_date) {
+            start_date = selection_start_date,
+            end_date = current_date;
+            for (var i = start_date; i <= end_date && !1 !== wpbs_mark_hover_selection(i, $calendar_instance); i.setUTCDate(i.getUTCDate() + 1))
+                ;
+        } else {
+            start_date = current_date,
+            end_date = selection_start_date;
+            for (var i = end_date; i >= start_date && !1 !== wpbs_mark_hover_selection(i, $calendar_instance); i.setUTCDate(i.getUTCDate() - 1))
+                ;
+        }
+    }
+    ));
+    var wpbs_frontend_visible_calendars = $(".wpbs-container:visible").length;
+    function wpbs_check_if_calendar_is_visible() {
+        return !!$(".wpbs-container").length && ($(".wpbs-container:visible").addClass("wpbs-visible"),
+        wpbs_frontend_visible_calendars != $(".wpbs-container.wpbs-visible").length && ($(window).trigger("resize"),
+        wpbs_frontend_visible_calendars = $(".wpbs-container.wpbs-visible").length),
+        $(".wpbs-container:not(:visible)").removeClass("wpbs-visible"),
+        $(".wpbs-container.wpbs-visible").length != $(".wpbs-container").length && void setTimeout(wpbs_check_if_calendar_is_visible, 250))
+    }
+    wpbs_check_if_calendar_is_visible(),
+    $("body").hasClass("block-editor-page") && $("body").hasClass("wp-admin") && setInterval((function() {
+        $(window).trigger("resize")
+    }
+    ), 1e3)
+}
+));
+
+
